@@ -1,4 +1,3 @@
-// AuthContext.js
 import { createContext, useContext, useState, ReactNode } from 'react';
 import { User } from '../server/db'
 
